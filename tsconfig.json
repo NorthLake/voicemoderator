@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "module": "esnext",
+    "moduleResolution": "Node",
+    "strictNullChecks": true,
+    "lib": ["es2015"],
+    "typeRoots": ["src/global.d.ts"]
+  },
+  "include": ["src/**/*.ts"]
+}

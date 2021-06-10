@@ -1,0 +1,47 @@
+[
+  {
+    "word": "banme",
+    "action": "ban",
+    "reason": "banme"
+  },
+  {
+    "word": "kickme",
+    "action": "kick",
+    "reason": "kickme"
+  },
+  {
+    "word": "warnme",
+    "action": "warn",
+    "reason": "warnme"
+  },
+  {
+    "word": "nothingme",
+    "action": "nothing",
+    "reason": "nothingme"
+  },
+  {
+    "word": "Discord-Nitro-Generator",
+    "action": "ban",
+    "reason": "Nitro generator scam"
+  },
+  {
+    "word": "ezence.org",
+    "action": "ban",
+    "reason": "Skin scam"
+  },
+  {
+    "word": "streamcomunnity.ru",
+    "action": "ban",
+    "reason": "Skin scam"
+  },
+  {
+    "word": "fnaticprize.site",
+    "action": "ban",
+    "reason": "Skin scam"
+  },
+  {
+    "word": "https://bit.ly/3xbsGtM",
+    "action": "ban",
+    "reason": "Virus"
+  }
+]
